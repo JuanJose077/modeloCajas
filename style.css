@@ -1,0 +1,19 @@
+#cabeza{
+    background-color: rgb(0, 162, 108);
+    padding-bottom: 150px;
+    border: 1px solid black;
+}
+
+#menu{
+    border: 1px solid black;
+    display: inline-block;
+    width: 50%;
+    height: 400px;
+}
+
+#Contenido{
+    border: 1px solid black;
+    display: inline-block;
+    width: 50%;
+    height: 400px;
+}
